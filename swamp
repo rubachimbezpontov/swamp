@@ -1,0 +1,6 @@
+name	https://github.com/new?name=test-repo&owner=avocado-corp creates a repository called "test-repo" owned by the "avocado-corp" organization.	Any valid repository name. Spaces must be replaced with + or %20.
+description	https://github.com/new?description=An+exciting+repository&visibility=private&owner=octocat creates a repo with the description "An exciting repository" with private visibility owned by @octocat.	Any string. Spaces must be replaced with + or %20.
+visibility	https://github.com/new?visibility=private creates a repository with private visibility.	public
+private
+owner	https://github.com/new?owner=avocado-corp&visibility=public creates a public repository owned by the "avocado-corp" organization.	Any valid organization name or username. Alternatively, while signed in use @me to specify your user account as the owner.
+template_owner and template_name	https://github.com/new?owner=avocado-corp&template_owner=avocado-corp&template_name=octo-repo creates a repository owned by the "avocado-corp" using the avocado-corp's template "octo-repo".	The username of the template owner and the name of the repository template.
